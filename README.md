@@ -49,7 +49,7 @@ Add this to ```package.json```
 }
 ```
 
-Add this to ```webpack.config.js```
+Create ```webpack.config.js``` and add this to it.
 
 ```
 module.exports = {
@@ -77,7 +77,7 @@ module.exports = {
 };
 ```
 
-And create ```.bablerc``` and put this in it
+And create ```.babelrc``` and put this in it
 
 ```
 {
