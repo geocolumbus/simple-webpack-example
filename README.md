@@ -1,9 +1,17 @@
 # Simple webpack example
 
+This example contains a ```src/index.js``` file that calls on a node dependency, ```markit-down```, to convert markdown into html. It makes a simple conversion of one line and logs it to the console.
+
+The purpose of this exercise is to demonstrate how the index.js and markit-down code get smooshed together by webpack and placed in ```dist/main.js```.
+
 ## Usage
 
-```npm install```
-```npm start```
+```
+git clone https://github.com/geocolumbus/simple-webpack-example.git
+cd simple-webpack-example
+npm install
+npm start
+```
 
 ### Now pack it up
 
