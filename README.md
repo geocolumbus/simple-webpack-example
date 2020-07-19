@@ -33,7 +33,7 @@ Now look at the file to see how the code from src/index.js is mashed together wi
 
 Babel is missing. Babel will translate ES 6 to ES 5 so it will be more likely to run in a browser.
 
-```npm install bable-core babel-loader --save-dev```
+```npm install babel-core babel-loader --save-dev```
 
 Add this to ```package.json```
 
