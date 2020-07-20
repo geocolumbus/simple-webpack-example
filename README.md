@@ -33,4 +33,6 @@ Now look at the file to see how the code from src/index.js is mashed together wi
 
 Babel is missing. Babel will translate ES 6 to ES 5 so it will be more likely to run in a browser.
 
-TODO!
+https://www.codementor.io/@misterpoloy/how-to-setup-babel-for-node-easy-r55wb7uy6
+
+
